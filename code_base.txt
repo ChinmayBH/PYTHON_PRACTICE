@@ -12,7 +12,7 @@ monitor: !!bool false
 # Manual feedback log file
 # Path will be constructed as `data_folder_path`/`feedback_file_name`
 feedback_file_name: feedback.xlsx
-
+#this is notimplimented
 # Define error messages
 errors:
   similar_doc: >
